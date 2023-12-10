@@ -1,0 +1,24 @@
+h1 {
+    background-color: yellowgreen;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    font-size: 38px;
+}
+body {
+    background-color: khaki;
+}
+table {
+    border: solid 2px;
+    margin: auto;
+    background-color: cornsilk;
+    width: 100%;
+}
+td {
+    text-align: center;
+    width: 8%;
+}
+th {
+    text-align: left;
+    font-size: 30px;
+}
