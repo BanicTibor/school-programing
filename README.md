@@ -1,5 +1,5 @@
 # Különböző tanórákon végzett órai munkáim a ZSzC Keszthelyi Asbóth Sándor Technikumban
 ## Magyar 🇭🇺
-Az órai munkáim a https://banictibor.github.io/school-programing oldalon elérhetők
+Az órai munkáim a https://prog.gh.banic.hu oldalon elérhetők
 ## English 🇬🇧 🇺🇸
-My class work is available at https://banictibor.github.io/school-programing
+My class work is available at https://prog.gh.banic.hu
