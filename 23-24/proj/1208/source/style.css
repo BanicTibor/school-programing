@@ -21,4 +21,28 @@ td {
 th {
     text-align: left;
     font-size: 30px;
+    color: blueviolet;
+    font-style: italic;
+}
+a {
+    color: brown;
+    text-decoration: none;
+}
+p {
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: justify;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:darkcyan;
+    text-indent: 35px;
+}
+ul {
+    margin-left: 50px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img {
+    border: double 5px;
+    height: 200px;
 }
