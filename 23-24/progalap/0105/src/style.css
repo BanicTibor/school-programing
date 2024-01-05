@@ -1,0 +1,22 @@
+body {
+    background-color: orange;
+    color: brown;
+}
+table {
+    width: 800px;
+    background-color: lightyellow;
+    margin-left: auto;
+    margin-right: auto;
+}
+.kep {
+    width: 150px;
+    text-align: center;
+}
+.tudtad {
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    background-color: orange;
+    text-align: center;
+    color: lightyellow;
+}
