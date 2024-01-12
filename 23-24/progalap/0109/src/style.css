@@ -1,0 +1,23 @@
+body {
+    background-color: #F0F8FF;
+    color: #00008B;
+}
+h2 {
+    color: #DC143C;
+}
+a {
+    color: #DC143C;
+}
+hr {
+    width: 70%;
+}
+#kepeslink {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.kep {
+    width: 230px;
+    height: 153px;
+    border: solid 1px;
+}
