@@ -1,0 +1,14 @@
+body {
+    background-image: url('hatter.jpg');
+    color: darkblue;
+}
+#body {
+    width: 700px;
+    background-color: #EEEECC;
+    margin-left: auto;
+    margin-right: auto;
+}
+#tyukcim {
+    text-align: center;
+    padding: 15px;
+}
