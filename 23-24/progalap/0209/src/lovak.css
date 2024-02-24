@@ -1,0 +1,31 @@
+#tartalom {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: gold;
+}
+#fejlec {
+    background-color: brown;
+    color: gold;
+}
+h1 {
+    font-size: 70px;
+    font-weight: bold;
+    text-align: center;
+}
+h2 {
+    background-color: brown;
+    color: gold;
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    border-radius: 100%;
+}
+p {
+    text-align: justify;
+    padding: 5%;
+    text-indent: 15px;
+}
+.kep {
+    border: double 3px brown;
+}
